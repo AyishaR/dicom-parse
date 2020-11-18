@@ -26,5 +26,5 @@ THe images are stored in a folder with the filename at the specified location.
 
 #### To do
 * Manage attributes with sub-sequences (Store as seperate csv under folder).
-* Resolve package error tat occurs while parsing images in certain DICOM files.
+* Resolve package error that occurs while parsing images in certain DICOM files.
 * Find a better way to store private attributes (better retrieval).
